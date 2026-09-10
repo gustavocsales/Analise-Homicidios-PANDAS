@@ -15,4 +15,4 @@ O objetivo é interpretar esses dados de forma aprofundada, compreendendo como e
 ## 🚀 Como executar o projeto
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/analise-homicidios-fcd.git](https://github.com/SEU-USUARIO/analise-homicidios-fcd.git)
+   git clone [https://github.com/gustavocsales/Analise-Homicidios-PANDAS.git](https://github.com/gustavocsales/Analise-Homicidios-PANDAS.git)
