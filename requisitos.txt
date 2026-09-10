@@ -1,0 +1,9 @@
+scipy
+numpy
+pandas
+seaborn
+tqdm
+geopandas
+statsmodels
+ipywidgets
+matplotlib

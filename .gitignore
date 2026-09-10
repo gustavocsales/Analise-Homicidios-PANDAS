@@ -1,0 +1,9 @@
+# Ignorar a pasta de dados extraída
+data_fcd/
+
+# Ignorar arquivos compactados baixados
+real_data_fcd.zip
+*.zip
+
+# Ignorar pastas ocultas do Jupyter Notebook
+.ipynb_checkpoints/
