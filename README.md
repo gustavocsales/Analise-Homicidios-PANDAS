@@ -12,6 +12,15 @@ O objetivo é interpretar esses dados de forma aprofundada, compreendendo como e
 * **Estatística e Regressão:** Statsmodels, SciPy
 * **Visualização:** Matplotlib, Seaborn, IPyWidgets
 
+## 📈 Exemplos de Análises
+
+Abaixo podemos ver a distribuição de óbitos no estado de São Paulo:
+
+![Mapa de Óbitos em SP](img/mapa_sp.png)
+
+Abaixo podemos ver o top 10 de municípios com mais óbitos
+![Mapa de top 10 Municípios em óbitos](img/top10_obitos_combinado.png)
+
 ## 🚀 Como executar o projeto
 1. Clone este repositório:
    ```bash
